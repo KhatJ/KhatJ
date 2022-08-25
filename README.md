@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhatJ
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning software engeering
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
